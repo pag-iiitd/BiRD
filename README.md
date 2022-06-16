@@ -1,4 +1,4 @@
-# RaceDetector
+# BiRD : Race detector for binaries under relaxed memory models TSO and PSO
 
 
 This tool is built and Tested on :
