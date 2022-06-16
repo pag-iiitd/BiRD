@@ -1,5 +1,11 @@
-# BiRD : Race detector for binaries under relaxed memory models TSO and PSO
+## BiRD : Race detector for binaries under relaxed memory models TSO and PSO
 
+#### Prerequisites
+```
+Intel PIN (version higher than or equal to 2.14)
+GCC (BiRD is built and evaluated on 4.8 version it may work on higher version)
+Restricted by PIN's abilities, BiRD may not work on kernel 4.0 or higher.
+```
 
 This tool is built and Tested on :
 Ubuntu 14.04
@@ -38,7 +44,7 @@ Run ./schedule_random.sh
 
 
 
-**Cite BiRD**
+###### **Cite BiRD**
 
 ```
 @article{jain2022bird,
