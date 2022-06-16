@@ -5,13 +5,10 @@
 Intel PIN (version higher than or equal to 2.14)
 GCC (BiRD is built and evaluated on 4.8 version it may work on higher version)
 Restricted by PIN's abilities, BiRD may not work on kernel 4.0 or higher.
+BiRD is evaluated on Ubuntu 14.04, 18.04 and 20.04
 ```
 
-This tool is built and Tested on :
-Ubuntu 14.04
-Kernel: 3.19 #Kernel over 4 might not support PIN
-Intel PIN's Version:: 2.14
-
+#### Set up
 
 1. Set PIN_ROOT to the home directory of PIN or where ninary of PIN is located.
     export PIN_ROOT=/path/to/pinBiRD is built and Tested on :
