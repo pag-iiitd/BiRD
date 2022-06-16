@@ -11,7 +11,7 @@ BiRD is evaluated on Ubuntu 14.04, 18.04 and 20.04
 #### Set up
 ```
 1. Set PIN_ROOT to the home directory of PIN or where ninary of PIN is located.
-    export PIN_ROOT=/path/to/pinBiRD 
+    export PIN_ROOT=/path/to/pin
 2. Set PIN_ROOT to the home directory of PIN or where ninary of PIN is located.
     export PIN_ROOT=/path/to/pin
 3. Set APP to client application
