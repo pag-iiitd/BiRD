@@ -36,3 +36,16 @@ Run ./schedule_random.sh
 
 [Reset path to endrun in schedule_random.sh]
 
+
+
+**Cite BiRD**
+
+```
+@article{jain2022bird,
+  title={BiRD: Race Detection in Software Binaries under Relaxed Memory Models},
+  author={Jain, Ridhi and Purandare, Rahul and Sharma, Subodh},
+  journal={ACM Transactions on Software Engineering and Methodology},
+  year={2022},
+  publisher={ACM New York, NY}
+}
+```
