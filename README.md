@@ -8,7 +8,7 @@ Restricted by PIN's abilities, BiRD may not work on kernel 4.0 or higher.
 BiRD is evaluated on Ubuntu 14.04, 18.04 and 20.04
 ```
 
-#### Set up
+#### Set up and Run
 ```
 1. Set PIN_ROOT to the home directory of PIN or where ninary of PIN is located.
     export PIN_ROOT=/path/to/pin
@@ -16,6 +16,9 @@ BiRD is evaluated on Ubuntu 14.04, 18.04 and 20.04
     export PIN_ROOT=/path/to/pin
 3. Set APP to client application
     export APP=/path/to/test
+4. Set APP to client application
+    export APP=/path/to/test   
+5. Run ./schedule_random.sh    
 ```
 
 #### Repository organization
@@ -29,13 +32,9 @@ src: Source code for BiRD
 
 Reset file backtract.out to empty and file endrun to "race" for every test.
 
-Run ./schedule_random.sh
-
 
 [Reset path to endrun in schedule_random.sh]
 
-2. Set APP to client application
-    export APP=/path/to/test
 
 Reset file backtract.out to empty and file endrun to "race" for every test.
 
